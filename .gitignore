@@ -36,5 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 #Bloqueamos la carpeta database
-database/
 ``` 
